@@ -1,0 +1,10 @@
+header {
+  background-color: #404040;
+  /* 1rem = 60px */
+  padding: 1rem;
+}
+header a {
+  color: #ffffffff;
+  font-weight: bold;
+  text-decoration: none;
+}

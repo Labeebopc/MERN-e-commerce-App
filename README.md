@@ -2,4 +2,4 @@
 
 # Lessons
 1. Create-react-app (naming, setting logo, seperating frontent and backend, creating git repo, installing bootstrap)
-
+2. Add routing
